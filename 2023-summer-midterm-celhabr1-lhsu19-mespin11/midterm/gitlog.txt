@@ -1,0 +1,251 @@
+commit cf08d71969cb04e35ab88bf008c3b3381eb0621b
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Fri Jun 30 16:46:51 2023 -0400
+
+    fixed error check if user input char instead of int
+
+commit fa6d155d0a8cfb4da8947b062ab10b8ee459619f
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Fri Jun 30 11:02:19 2023 -0400
+
+    deleted resizeImage
+
+commit cb76e266929b03e0edba52b5ba3cd54097f5f1a4
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Fri Jun 30 09:19:45 2023 -0400
+
+    malloc error testing
+
+commit c32da3e4d6793fc37eb15865f38bb5a9b0f64c19
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Fri Jun 30 08:34:47 2023 -0400
+
+    fixing method headers
+
+commit ed7b41213ff868f0a64da61a46b6f2547c2c3350
+Merge: ede08c7 ddfae51
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Fri Jun 30 07:46:21 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-midterm-celhabr1-lhsu19-mespin11
+
+commit ede08c7c9d732bf192d7198e580a551ab0758d6a
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Fri Jun 30 07:46:15 2023 -0400
+
+    testing
+
+commit ddfae51d24a09e6985e5b79b917979a9e2192354
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Thu Jun 29 23:03:33 2023 -0400
+
+    added group member names and JHED
+
+commit 7cdde0e2b8453c7a1779b656ea7078427c15b981
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 21:57:49 2023 -0400
+
+    fixed merge errors
+
+commit 95d31ed37820b45dff2dc6c11347826e578032da
+Merge: 54c54a3 dc66afb
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 21:32:00 2023 -0400
+
+    staging changes
+
+commit 54c54a35f356f21eb6f24e177ac2b582e7d1d399
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 21:30:18 2023 -0400
+
+    commiting changes
+
+commit dc66afbfade1e42575a7d86e9c6c0a487e4dad28
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Thu Jun 29 20:01:14 2023 -0400
+
+    fixed crop new row col error detection
+
+commit 9c32154fce6a636987e589d47eca16a98028736d
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Thu Jun 29 18:08:37 2023 -0400
+
+    tests
+
+commit dcfb55396fdf649692940a8d03f7637227114b31
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Thu Jun 29 18:08:01 2023 -0400
+
+    double checked the error messages and added error for file can't be read as ppm
+
+commit 260a1c1cac39581dfc834b5c880c53d68d19decb
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 17:35:59 2023 -0400
+
+    fixed crop function
+
+commit a74392417c7c8c2770e9d21ec2597796607c683d
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 17:23:59 2023 -0400
+
+    tidied code and tried to fix length/width error in crop
+
+commit 54fbb1e6cd419f69e5d3489f8cea0a40c4b5086a
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 12:19:40 2023 -0400
+
+    organize functions, working on simplifying main
+
+commit fd0d18e974e168b5d65baa1fe22e3f00fdaf4509
+Merge: 144e619 c6ddc9d
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 11:29:40 2023 -0400
+
+    organizing code
+
+commit 144e6194fa919c425996fdfb6052f742ab79c1bc
+Merge: e87a89f b75f92a
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jun 29 08:33:08 2023 -0400
+
+    merge error
+
+commit c6ddc9d4bc6564c5638bd9775e66c9dd27613952
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Thu Jun 29 01:47:27 2023 -0400
+
+    seam function working; output is slightly different that what is shown in project handout
+
+commit 9fd8b29867c967e26377d4414e5d06e43315de2e
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Thu Jun 29 00:33:28 2023 -0400
+
+    got seam function to create the seam list, i think. gonna keep going to see if it works
+
+commit e87a89fde20078cfb36094e3e3a7e7cd641196fc
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 22:25:14 2023 -0400
+
+    organizing files
+
+commit b75f92ae2274d123b66e0adf35a20f2842fe26c3
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Wed Jun 28 22:09:38 2023 -0400
+
+    changes in img_processing
+
+commit c0c19c9e7586f2410a5b3ce48b9bd6f7b635f4f8
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Wed Jun 28 21:58:05 2023 -0400
+
+    transposed img
+
+commit 553c7457d93f42330d0f22cf2eac32c962b42654
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Wed Jun 28 21:57:36 2023 -0400
+
+    added transpose and is now working
+
+commit 5bc2eeff73d5de31c5ea396bcd3df88b4e940f04
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Wed Jun 28 20:39:54 2023 -0400
+
+    created a function (getGradientVals) that takes an image and a return array and populates the return array with gradient values
+
+commit 8ba7717ab11e7d1a66a39500b161aa14284f13cf
+Merge: 4631e12 ad8fc71
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 20:25:45 2023 -0400
+
+    organized
+
+commit 4631e12d63f290e05df2097ac63d38e50b5a3f95
+Merge: e88ad68 e44396d
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 20:22:32 2023 -0400
+
+    crop function finished implementing
+
+commit ad8fc717fdee1e462baddc0669179eb03a581866
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Wed Jun 28 12:02:26 2023 -0400
+
+    gradient seems to be working. haven't compared numerically, want to commit first tho
+
+commit 05db10a6500613ed1cfd6328cf09a2cfd6401599
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Wed Jun 28 19:22:13 2023 -0400
+
+    tired of this git not working
+
+commit e88ad68d8cbe57e4958edda8c047931e080859bb
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 15:16:11 2023 -0400
+
+    organized
+
+commit a366df9f10d2f0563c92e992d0ae775db5a196ed
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 14:29:01 2023 -0400
+
+    organized img_processing.c
+
+commit e44396db570c638c41a13d10b38b3cb015776741
+Author: LeoHsu <lhsu19@jh.edu>
+Date:   Wed Jun 28 12:52:31 2023 -0400
+
+    addedpseudocode for crop and transpose, check image pointer and resize image helper functions
+
+commit 584887a7b49411869f33b9ade46d02a2784cfdfc
+Author: Colton El-Habr <coltonhabr@gmail.com>
+Date:   Wed Jun 28 11:30:40 2023 -0400
+
+    made edits to gradient function
+
+commit 0636468af7c033758e6488652d7c0fa19ce3bbee
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 11:29:40 2023 -0400
+
+    finished grayscale and binarize
+
+commit 2fe0a90cbe13d4e4598b9284c0df01ccc8813007
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jun 28 10:59:56 2023 -0400
+
+    fixed errors in grayscale function
+
+commit 5da461f42dba249e6cf74941e3be20754264941e
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Tue Jun 27 21:03:55 2023 -0400
+
+    fixed printError func, need to edit calculation for grayscale and binarize
+
+commit 58bf55f3f08c101ba255473a9494a1d5c3524d56
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Tue Jun 27 19:31:44 2023 -0400
+
+    fixed command line arg errors and seg faults
+
+commit 37e0e8685d71484d607bd35ac0fcf98d740c0a97
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Mon Jun 26 23:14:49 2023 -0400
+
+    got binarize to print a binarized image, need to fix grayscale since it doesn't match results grayscale
+
+commit 58a1dc2310c29a0e46c7250200bc1af56cfc30f4
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Mon Jun 26 16:59:12 2023 -0400
+
+    finished grayscale error, implemented binarize but not working just yet
+
+commit 7b82850ac257a0b663585523fa84eefbad845820
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Sun Jun 25 21:52:08 2023 -0400
+
+    worked on greyscale and creating its helper function
+
+commit 3d5952773fe0eef3e6b4a6b85decb7312fdd96e4
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Sun Jun 25 19:11:24 2023 -0400
+
+    added project files to repo
